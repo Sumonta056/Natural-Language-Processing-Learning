@@ -27,3 +27,11 @@
 </div>
 
 <hr>
+
+# 🎥 Natural Language Processing (NLP) and Tasks List (I Tired)
+
+### Regular Expression & Regex
+- **✍️ Extracting Bangladeshi Phone-Numbers From Dataset  : *([👉Click Here](./Regex_Tutorial/Extract_PhoneNo.ipynb))*** 
+- **✍️ Extracting Email Addresses From Dataset  : *([👉Click Here](./Regex_Tutorial/Extract_Emails.ipynb))*** 
+- **✍️ Extracting Order Numbers From Customer Chats  : *([👉Click Here](./Regex_Tutorial/Extract_Customer_Order_Number.ipynb))*** 
+- **⭐ Extracting Relevant User Information from Text Files (Source Wikipedia Which Also Contains Unecessary Information) and Saving Results" : *([👉Click Here](./Regex_Tutorial/Extract_UserInfo.ipynb))*** 
