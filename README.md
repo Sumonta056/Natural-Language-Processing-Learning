@@ -3,8 +3,6 @@
 
 # 🌲 Natural Language Processing (NLP)
 
-<hr>
-
 *------ **🧠 Resources of Natural Language Processing 🧠** ------*
 
 #### ✍️ NLP Tutorial For Beginners In Python (Playlist) :  **([👉Click Here](https://youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX&si=-FfQxx-ZttHIGu5T))**
@@ -30,7 +28,7 @@
 
 # 🧐 Natural Language Processing (NLP) Projects and Tasks List (I Tired)
 
-### Regular Expression & Regex
+### 1️⃣ Regular Expression & Regex   **([👉Click Here](./Regex_Tutorial/))**
 - **✍️ Extracting Bangladeshi Phone-Numbers From Dataset  : *([👉Click Here](./Regex_Tutorial/Extract_PhoneNo.ipynb))*** 
 - **✍️ Extracting Email Addresses From Dataset  : *([👉Click Here](./Regex_Tutorial/Extract_Emails.ipynb))*** 
 - **✍️ Extracting Order Numbers From Customer Chats  : *([👉Click Here](./Regex_Tutorial/Extract_Customer_Order_Number.ipynb))*** 
