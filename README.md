@@ -28,7 +28,7 @@
 
 <hr>
 
-# 🎥 Natural Language Processing (NLP) and Tasks List (I Tired)
+# 🧐 Natural Language Processing (NLP) Projects and Tasks List (I Tired)
 
 ### Regular Expression & Regex
 - **✍️ Extracting Bangladeshi Phone-Numbers From Dataset  : *([👉Click Here](./Regex_Tutorial/Extract_PhoneNo.ipynb))*** 
